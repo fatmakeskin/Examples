@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiddlewareExamplee", "MiddlewareExamplee\MiddlewareExamplee.csproj", "{82C3DD9C-ED1F-46AD-976A-F7FC1E0582CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthExample", "AuthExample\AuthExample.csproj", "{DEC191F4-10D9-4D2C-8CEB-823500818ED1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82C3DD9C-ED1F-46AD-976A-F7FC1E0582CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82C3DD9C-ED1F-46AD-976A-F7FC1E0582CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82C3DD9C-ED1F-46AD-976A-F7FC1E0582CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82C3DD9C-ED1F-46AD-976A-F7FC1E0582CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEC191F4-10D9-4D2C-8CEB-823500818ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC191F4-10D9-4D2C-8CEB-823500818ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC191F4-10D9-4D2C-8CEB-823500818ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC191F4-10D9-4D2C-8CEB-823500818ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D34D1D33-4558-44F0-B107-8DA93B30E0E0}
+	EndGlobalSection
+EndGlobal
