@@ -5,7 +5,11 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiddlewareExamplee", "MiddlewareExamplee\MiddlewareExamplee.csproj", "{82C3DD9C-ED1F-46AD-976A-F7FC1E0582CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthExample", "AuthExample\AuthExample.csproj", "{DEC191F4-10D9-4D2C-8CEB-823500818ED1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthExample", "AuthExample\AuthExample.csproj", "{DEC191F4-10D9-4D2C-8CEB-823500818ED1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjectionn", "DependencyInjectionn\DependencyInjectionn.csproj", "{E8DBD96B-2E05-443F-94AC-712FBF460B62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeTarckerApi", "ChangeTarckerApi\ChangeTarckerApi.csproj", "{EBC9304B-6BCF-4A42-A8E2-8A1B0AF25372}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{DEC191F4-10D9-4D2C-8CEB-823500818ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEC191F4-10D9-4D2C-8CEB-823500818ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEC191F4-10D9-4D2C-8CEB-823500818ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8DBD96B-2E05-443F-94AC-712FBF460B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8DBD96B-2E05-443F-94AC-712FBF460B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8DBD96B-2E05-443F-94AC-712FBF460B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8DBD96B-2E05-443F-94AC-712FBF460B62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBC9304B-6BCF-4A42-A8E2-8A1B0AF25372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC9304B-6BCF-4A42-A8E2-8A1B0AF25372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC9304B-6BCF-4A42-A8E2-8A1B0AF25372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC9304B-6BCF-4A42-A8E2-8A1B0AF25372}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
